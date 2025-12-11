@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 # jdk17 arm版本
---platform=llinux/arm64 openjdk:17.0.1-jdk-slim
+--platform=linux/arm64 openjdk:17.0.1-jdk-slim
