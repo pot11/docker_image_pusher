@@ -7,3 +7,6 @@ xhofe/alist:latest
 
 # jdk17 arm版本
 --platform=linux/arm64 openjdk:17.0.1-jdk-slim
+
+# jdk17 maven插件 arm版本
+--platform=linux/arm64 maven:3.8.1-openjdk-17-slim
