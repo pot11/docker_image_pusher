@@ -4,3 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+# jdk17 arm版本
+--platform=llinux/arm64 openjdk:17.0.1-jdk-slim
