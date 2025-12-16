@@ -12,5 +12,5 @@ xhofe/alist:latest
 --platform=linux/arm64 maven:3.8.1-openjdk-17-slim
 
 # jellyfin nyanmisaka arm版本
---platform=linux/arm64 nyanmisaka/jellyfin
+--platform=linux/arm64 nyanmisaka/jellyfin:latest-rockchip
 
