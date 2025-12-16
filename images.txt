@@ -10,3 +10,7 @@ xhofe/alist:latest
 
 # jdk17 maven插件 arm版本
 --platform=linux/arm64 maven:3.8.1-openjdk-17-slim
+
+# jellyfin nyanmisaka arm版本
+--platform=linux/arm64 nyanmisaka/jellyfin
+
